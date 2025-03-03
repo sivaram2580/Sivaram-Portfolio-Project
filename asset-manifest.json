@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Sivaram-Portfolio-Project/static/css/main.c6dffc35.css",
-    "main.js": "/Sivaram-Portfolio-Project/static/js/main.c71a1140.js",
+    "main.js": "/Sivaram-Portfolio-Project/static/js/main.c1165d45.js",
     "static/js/453.acca0757.chunk.js": "/Sivaram-Portfolio-Project/static/js/453.acca0757.chunk.js",
     "static/media/IMG_20230330_143220.png": "/Sivaram-Portfolio-Project/static/media/IMG_20230330_143220.1d2eea81b14a180f1fce.png",
     "static/media/tms.png": "/Sivaram-Portfolio-Project/static/media/tms.563c58fbd6831b694881.png",
@@ -13,11 +13,11 @@
     "static/media/css.png": "/Sivaram-Portfolio-Project/static/media/css.f76926117a75fcd4774d.png",
     "index.html": "/Sivaram-Portfolio-Project/index.html",
     "main.c6dffc35.css.map": "/Sivaram-Portfolio-Project/static/css/main.c6dffc35.css.map",
-    "main.c71a1140.js.map": "/Sivaram-Portfolio-Project/static/js/main.c71a1140.js.map",
+    "main.c1165d45.js.map": "/Sivaram-Portfolio-Project/static/js/main.c1165d45.js.map",
     "453.acca0757.chunk.js.map": "/Sivaram-Portfolio-Project/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c6dffc35.css",
-    "static/js/main.c71a1140.js"
+    "static/js/main.c1165d45.js"
   ]
 }
